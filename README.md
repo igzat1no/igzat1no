@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🏫 I am now a fourth-year undergraduate from IIIS, Tsinghua University.
+- 🏫 I am now a first-year master student from Robotics Institute, Carnegie Mellon University.
 
 - 📖 I major in Artificial Intelligence.
 
