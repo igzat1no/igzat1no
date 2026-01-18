@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🏫 I am now a first-year master student from Robotics Institute, Carnegie Mellon University.
+- 🏫 I am now a second-year master student from Robotics Institute, Carnegie Mellon University.
 
 - 📖 I major in Artificial Intelligence.
 
