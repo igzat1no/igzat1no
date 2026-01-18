@@ -12,6 +12,6 @@
 
 <br/>
 
-![igzat1no's GitHub stats](https://github-readme-stats.vercel.app/api?username=igzat1no&show_icons=true&theme=dracula)
+![Stats](./profile/stats.svg)
 
 > Template borrowed from [@anuraghazra](https://github.com/anuraghazra/anuraghazra/)
